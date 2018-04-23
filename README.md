@@ -1,6 +1,6 @@
 # Wittr
 
-This is a silly little demo app for an offline-first course.
+This is a silly little demo app for an offline-first course of Udacity.
 
 You could run the app either using machine dependnecies, or using docker
 
